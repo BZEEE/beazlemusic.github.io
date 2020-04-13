@@ -1,6 +1,6 @@
 
 
-export class SearchManager {
+class SearchManager {
     constructor() {}
 
     constructSearchQuery(searchResult) {
